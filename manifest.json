@@ -1,7 +1,6 @@
 {
-  "name": "PWA Sample",
+  "name": "PWA",
   "short_name": "PWA",
-  "background_color": "#fc980c",
   "icons": [{
       "src": "./icon-256.png",
       "sizes": "256x256",
